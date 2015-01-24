@@ -20,9 +20,6 @@ do that by providing one-click installation for the
 [Sandstorm](https://sandstorm.io) platform and verified
 [Docker](https://www.docker.com) images.
 
-<!-- LibreBoard is released under the very permissive [MIT license](LICENSE),
-and made with [Meteor](https://www.meteor.com). -->
-
 [Our roadmap is self-hosted on LibreBoard][roadmap]
 
 [new-ui]: https://github.com/libreboard/libreboard/issues/94
